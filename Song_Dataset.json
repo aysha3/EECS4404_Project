@@ -1,0 +1,981 @@
+{
+	"songs": [
+		{
+			"name": "Walkie Talkie Man",
+			"artist": "Steriogram",
+			"genre1": "Punk Rock",
+			"genre2": "Alternative/Indie",
+			"language": "English",
+			"tempo": "141"
+		},
+		{
+			"name": "Makes No Difference",
+			"artist": "Sum 41",
+			"genre1": "Alternative/Indie",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "108"
+		},
+		{
+			"name": "Sk8er Boi",
+			"artist": "Avril Lavigne",
+			"genre1": "Pop-punk",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "150"
+		},
+		{
+			"name": "I Was Born to Love You",
+			"artist": "Queen",
+			"genre1": "Pop rock",
+			"genre2": "Disco",
+			"language": "English",
+			"tempo": "139"
+		},
+		{
+			"name": "Rock This Town",
+			"artist": "Stray Cats",
+			"genre1": "Rockabilly",
+			"genre2": "Rock",
+			"language": "English",
+			"tempo": "202"
+		},
+		{
+			"name": "Highway Star",
+			"artist": "Deep Purple",
+			"genre1": "Hard Rock",
+			"genre2": "Heavy Metal",
+			"language": "English",
+			"tempo": "173"
+		},
+		{
+			"name": "Y.M.C.A",
+			"artist": "Village People",
+			"genre1": "Disco",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "127"
+		},
+		{
+			"name": "September",
+			"artist": "Earth, Wind & Fire",
+			"genre1": "Disco",
+			"genre2": "R&B/Soul",
+			"language": "English",
+			"tempo": "126"
+		},
+		{
+			"name": "Canned Heat",
+			"artist": "Jamiroquai",
+			"genre1": "Electronica",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "128"
+		},
+		{
+			"name": "Material Girl",
+			"artist": "Madonna",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "137"
+		},
+		{
+			"name": "La La",
+			"artist": "Ashley Simpson",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "130"
+		},
+		{
+			"name": "You're the Inspiration",
+			"artist": "Chicago",
+			"genre1": "R&B/Soul",
+			"genre2": "Rock",
+			"language": "English",
+			"tempo": "74"
+		},
+		{
+			"name": "Let's Dance",
+			"artist": "David Bowie",
+			"genre1": "Alternative/Indie",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "116"
+		},
+		{
+			"name": "The Anthem",
+			"artist": "Good Charlotte",
+			"genre1": "Pop-punk",
+			"genre2": "Classic Rock",
+			"language": "English",
+			"tempo": "89"
+		},
+		{
+			"name": "Without a Fight",
+			"artist": "Hoobastank",
+			"genre1": "Rock",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "179"
+		},
+		{
+			"name": "Jumpin' Jack Flash - Mono Version",
+			"artist": "The Rolling Stones",
+			"genre1": "Blues Rock",
+			"genre2": "Hard Rock",
+			"language": "English",
+			"tempo": "137"
+		},
+		{
+			"name": "Believe",
+			"artist": "Cher",
+			"genre1": "Pop",
+			"genre2": "UK R&B",
+			"language": "English",
+			"tempo": "133"
+		},
+		{
+			"name": "ABC",
+			"artist": "The Jackson 5",
+			"genre1": "R&B/Soul",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "95"
+		},
+		{
+			"name": "Survivor",
+			"artist": "Destiny's Child",
+			"genre1": "R&B/Soul",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "161"
+		},
+		{
+			"name": "TOMBOY",
+			"artist": "HYUKOH",
+			"genre1": "Korean Rock/Alternative",
+			"genre2": "N/A",
+			"language": "Korean",
+			"tempo": "148"
+		},
+		{
+			"name": "Comes and Goes",
+			"artist": "HYUKOH",
+			"genre1": "Korean Rock/Alternative",
+			"genre2": "N/A",
+			"language": "Korean",
+			"tempo": "120"
+		},
+		{
+			"name": "Gondry",
+			"artist": "HYUKOH",
+			"genre1": "Korean Rock/Alternative",
+			"genre2": "N/A",
+			"language": "Korean",
+			"tempo": "80"
+		},
+		{
+			"name": "Il Ballo Delle Incertezze",
+			"artist": "Ultimo",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "Italian",
+			"tempo": "144"
+		},
+		{
+			"name": "Poesia Senza Veli",
+			"artist": "Ultimo",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "Italian",
+			"tempo": "82"
+		},
+		{
+			"name": "Things I've Forgotten",
+			"artist": "Summer Soul",
+			"genre1": "K-Pop",
+			"genre2": "Folk",
+			"language": "Korean",
+			"tempo": "119"
+		},
+		{
+			"name": "Nuestra Cancion",
+			"artist": "Monsieur Perine, Vincent Garcia",
+			"genre1": "Alternative/Indie",
+			"genre2": "Pop",
+			"language": "Spanish",
+			"tempo": "106"
+		},
+		{
+			"name": "Edge of Town",
+			"artist": "Middle Kids",
+			"genre1": "Alternative/Indie",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "105"
+		},
+		{
+			"name": "Buttercup",
+			"artist": "Hippo Campus",
+			"genre1": "Alternative/Indie",
+			"genre2": "New Age",
+			"language": "English",
+			"tempo": "109"
+		},
+		{
+			"name": "Keep Two-Stepping",
+			"artist": "Pretoria",
+			"genre1": "Rock",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "127"
+		},
+		{
+			"name": "Cigarette Daydreams",
+			"artist": "Cage the Elephant",
+			"genre1": "Alternative/Indie",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "114"
+		},
+		{
+			"name": "As It Was",
+			"artist": "Harry Styles",
+			"genre1": "Funk",
+			"genre2": "Contemporary R&B",
+			"language": "English",
+			"tempo": "174"
+		},
+		{
+			"name": "Potions",
+			"artist": "Day Wave",
+			"genre1": "Alternative/Indie",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "92"
+		},
+		{
+			"name": "If We Wait",
+			"artist": "Guided By Voices",
+			"genre1": "Alternative/Indie",
+			"genre2": "Rock",
+			"language": "English",
+			"tempo": "101"
+		},
+		{
+			"name": "Glue",
+			"artist": "Alex & Natt Wolff",
+			"genre1": "Alternative/Indie",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "161"
+		},
+		{
+			"name": "Butch",
+			"artist": "Saint Motel",
+			"genre1": "Alternative/Indie",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "97"
+		},
+		{
+			"name": "Mixtape 2003",
+			"artist": "The Academic",
+			"genre1": "Alternative/Indie",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "167"
+		},
+		{
+			"name": "I Don't Know You Like I Used To",
+			"artist": "Mercury",
+			"genre1": "Alternative/Indie",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "180"
+		},
+		{
+			"name": "Kilby Girl",
+			"artist": "The Backseat Lovers",
+			"genre1": "Alternative/Indie",
+			"genre2": "Rock",
+			"language": "English",
+			"tempo": "162"
+		},
+		{
+			"name": "Crying Lightning",
+			"artist": "Artic Monkeys",
+			"genre1": "Indie Rock",
+			"genre2": "Psychedelic rock",
+			"language": "English",
+			"tempo": "107"
+		},
+		{
+			"name": "Arms Tonight",
+			"artist": "Mother Mother",
+			"genre1": "Indie Rock",
+			"genre2": "Alternative Rock",
+			"language": "English",
+			"tempo": "140"
+		},
+		{
+			"name": "Alien Blues",
+			"artist": "Vundabar",
+			"genre1": "Indie rock",
+			"genre2": "Rock",
+			"language": "English",
+			"tempo": "80"
+		},
+		{
+			"name": "Quarterback",
+			"artist": "Wallows",
+			"genre1": "Alternative/Indie",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "121"
+		},
+		{
+			"name": "Games",
+			"artist": "Flycatcher",
+			"genre1": "Punk",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "144"
+		},
+		{
+			"name": "Grim Mary",
+			"artist": "1990nowhere, Olivver the Kid, Olen, Lostboycrow",
+			"genre1": "Alternative/Indie",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "99"
+		},
+		{
+			"name": "Slumber",
+			"artist": "Slotface",
+			"genre1": "Alternative/Indie",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "155"
+		},
+		{
+			"name": "Gasolina",
+			"artist": "Daddy Yankee",
+			"genre1": "Latin Urbano",
+			"genre2": "N/A",
+			"language": "Spanish",
+			"tempo": "96"
+		},
+		{
+			"name": "Ew",
+			"artist": "Joji",
+			"genre1": "R&B/Soul",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "114"
+		},
+		{
+			"name": "Save Your Tears",
+			"artist": "The Weekend",
+			"genre1": "R&B/Soul",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "118"
+		},
+		{
+			"name": "Chanel",
+			"artist": "Frank Ocean",
+			"genre1": "R&B",
+			"genre2": "Hip-Hop/Rap",
+			"language": "English",
+			"tempo": "110"
+		},
+		{
+			"name": "Nobody",
+			"artist": "Mitski",
+			"genre1": "Alternative/Indie",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "100"
+		},
+		{
+			"name": "The Less I Know the Better",
+			"artist": "Tame Impala",
+			"genre1": "Alternative/Indie",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "117"
+		},
+		{
+			"name": "Like You Do",
+			"artist": "Joji",
+			"genre1": "Alternative/Indie",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "66"
+		},
+		{
+			"name": "SLOW DANCING IN THE DARK",
+			"artist": "Joji",
+			"genre1": "R&B",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "89"
+		},
+		{
+			"name": "champagne problems",
+			"artist": "Taylor Swift",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "171"
+		},
+		{
+			"name": "exile",
+			"artist": "Talyor Swift, Bon Iver",
+			"genre1": "Indie folk",
+			"genre1": "Alternative/Indie",
+			"language": "English",
+			"tempo": "76"
+		},
+		{
+			"name": "Disco",
+			"artist": "Surf Curse",
+			"genre1": "Alternative/Indie",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "173"
+		},
+		{
+			"name": "Notion",
+			"artist": "The Rare Occasions",
+			"genre1": "Rock",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "159"
+		},
+		{
+			"name": "Freaks",
+			"artist": "Surf Curse, Travis Barker",
+			"genre1": "Alternative/Indie",
+			"genre2": "Indie",
+			"language": "English",
+			"tempo": "180"
+		},
+		{
+			"name": "we fell in love in october",
+			"artist": "girl in red",
+			"genre1": "Alternative/Indie",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "130"
+		},
+		{
+			"name": "Take My Breath",
+			"artist": "The Weekend",
+			"genre1": "R&B/Soul",
+			"genre2": "Alternative/Indie",
+			"language": "English",
+			"tempo": "121"
+		},
+		{
+			"name": "Love Me More",
+			"artist": "Mitski",
+			"genre1": "Alternative/Indie",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "136"
+		},
+		{
+			"name": "Black Pearl",
+			"artist": "SUNMI",
+			"genre1": "K-Pop",
+			"genre2": "N/A",
+			"language": "Korean",
+			"tempo": "77"
+		},
+		{
+			"name": "How can i forget you girl",
+			"artist": "87dance",
+			"genre1": "Alternative Rock",
+			"genre2": "N/A",
+			"language": "Korean",
+			"tempo": "97"
+		},
+		{
+			"name": "Less Than Zero",
+			"artist": "The Weekend",
+			"genre1": "Alternative/Indie",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "143"
+		},
+		{
+			"name": "Ocean Drive",
+			"artist": "Duke Dumont",
+			"genre1": "Dance/Electronic",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "115"
+		},
+		{
+			"name": "EARFQUAKE",
+			"artist": "Tyler, the  Creator",
+			"genre1": "Hip-Hop/Rap",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "80"
+		},
+		{
+			"name": "Exit Music (For a Film)",
+			"artist": "Radiohead",
+			"genre1": "Alternative rock",
+			"genre2": "Alternative/Indie",
+			"language": "English",
+			"tempo": "122"
+		},
+		{
+			"name": "Knife Talk",
+			"artist": "Drake, 21 Savage, Project Pat",
+			"genre1": "Hip-Hop/Rap",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "146"
+		},
+		{
+			"name": "GONE, GONE/THANK YOU",
+			"artist": "Tyler, the Creator",
+			"genre1": "Hip-Hop/Rap",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "93"
+		},
+		{
+			"name": "Congratulations",
+			"artist": "Mac Miller, Bilal",
+			"genre1": "Hip-Hop/Rap",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "58"
+		},
+		{
+			"name": "august",
+			"artist": "Taylor Swift",
+			"genre1": "Alternative/Indie",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "90"
+		},
+		{
+			"name": "Lost",
+			"artist": "Frank Ocean",
+			"genre1": "R&B/Soul",
+			"genre2": "Hip-Hop/Rap",
+			"language": "English",
+			"tempo": "123"
+		},
+		{
+			"name": "right where you left me",
+			"artist": "Taylor swift",
+			"genre1": "Alternative/Indie",
+			"genre2": "R&B/Soul",
+			"language": "English",
+			"tempo": "138"
+		},
+		{
+			"name": "Savior",
+			"artist": "Kendrick Lamar, Baby Keem, Sam Dew",
+			"genre1": "Hip-Hop/Rap",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "117"
+		},
+		{
+			"name": "Je te laisserai des mots",
+			"artist": "Patrick Watson",
+			"genre1": "Folk",
+			"genre2": "Indie",
+			"language": "French",
+			"tempo": "133"
+		},
+		{
+			"name": "Without Me",
+			"artist": "Eminem",
+			"genre1": "Spoken Word",
+			"genre2": "Hip-Hop/Rap",
+			"language": "English",
+			"tempo": "112"
+		},
+		{
+			"name": "Glimpse of Us",
+			"artist": "Joji",
+			"genre1": "R&B/Soul",
+			"genre2": "Alternative/Indie",
+			"language": "English",
+			"tempo": "170"
+		},
+		{
+			"name": "Don't Blame Me",
+			"artist": "Taylor Swift",
+			"genre1": "Pop",
+			"genre2": "Electropop",
+			"language": "English",
+			"tempo": "92"
+		},
+		{
+			"name": "Despues de la Playa",
+			"artist": "Bad Bunny",
+			"genre1": "Merengue",
+			"genre2": "Mambo",
+			"language": "Spanish",
+			"tempo": "78"
+		},
+		{
+			"name": "TVI",
+			"artist": "Surfs Curse",
+			"genre1": "Alternative/Indie",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "184"
+		},
+		{
+			"name": "Love Lost",
+			"artist": "Mac Miller, The Temper Trap",
+			"genre1": "Hip-Hop/Rap",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "110"
+		},
+		{
+			"name": "Summertime Sadness",
+			"artist": "Lana Del Ray",
+			"genre1": "Trip hop",
+			"genre2": "Alternative/Indie",
+			"language": "English",
+			"tempo": "112"
+		},
+		{
+			"name": "Bad Habit",
+			"artist": "Steve Lacy",
+			"genre1": "R&B/Soul",
+			"genre2": "Alternative/Indie",
+			"language": "English",
+			"tempo": "169"
+		},
+		{
+			"name": "Stargirl Interlude",
+			"artist": "The Weekend, Lana Del Ray",
+			"genre1": "Pop",
+			"genre2": "Contemporary R&B",
+			"language": "English",
+			"tempo": "90"
+		},
+		{
+			"name": "Nothing Breaks Like a Heart",
+			"artist": "Mark Ronson, Miley Cyrus",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "114"
+		},
+		{
+			"name": "No Surprises",
+			"artist": "Radiohead",
+			"genre1": "Alternatice/Indie",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "76"
+		},
+		{
+			"name": "Creep",
+			"artist": "Radiohead",
+			"genre1": "Alternative rock",
+			"genre2": "Grunge",
+			"language": "English",
+			"tempo": "92"
+		},
+		{
+			"name": "Snow On The Beach",
+			"artist": "Taylor Swift, Lana Del Ray",
+			"genre1": "Pop",
+			"genre2": "Holiday",
+			"language": "English",
+			"tempo": "110"
+		},
+		{
+			"name": "Bags",
+			"artist": "Clairo",
+			"genre1": "Alternative/Indie",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "105"
+		},
+		{
+			"name": "Sofia",
+			"artist": "Clairo",
+			"genre1": "Alternative/Indie",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "113"
+		},
+		{
+			"name": "Die For You",
+			"artist": "Joji",
+			"genre1": "R&B/Soul",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "148"
+		},
+		{
+			"name": "This Town",
+			"artist": "Niall Horan",
+			"genre1": "Pop",
+			"genre2": "Folk",
+			"language": "English",
+			"tempo": "112"
+		},
+		{
+			"name": "city snail",
+			"artist": "87dance",
+			"genre1": "R&B-Soul",
+			"genre2": "K-pop",
+			"language": "Korean",
+			"tempo": "73"
+		},
+		{
+			"name": "a night person",
+			"artist": "87dance",
+			"genre1": "K-pop",
+			"genre2": "N/A",
+			"language": "Korean",
+			"tempo": "87"
+		},
+		{
+			"name": "Creepin'",
+			"artist": "Metro Boomin, The Weekend, 21 Savage",
+			"genre1": "Hip-Hop/Rap",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "98"
+		},
+		{
+			"name": "even if i fall into a fail",
+			"artist": "87dance",
+			"genre1": "R&B-Soul",
+			"genre2": "K-pop",
+			"language": "Korean",
+			"tempo": "80"
+		},
+		{
+			"name": "Flowers",
+			"artist": "Miley Cyrus",
+			"genre1": "Alternative/Indie",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "118"
+		},
+		{
+			"name": "Enchanted",
+			"artist": "Taylor Swift",
+			"genre1": "Pop",
+			"genre2": "Country",
+			"language": "English",
+			"tempo": "164"
+		},
+		{
+			"name": "Kill Bill",
+			"artist": "SZA",
+			"genre1": " Pop",
+			"genre2": "R&B/Soul",
+			"language": "English",
+			"tempo": "89"
+		},
+		{
+			"name": "I Wish You Roses",
+			"artist": "Kali Uchis",
+			"genre1": "R&B/Soul",
+			"genre2": "UK R&B",
+			"language": "English",
+			"tempo": "142"
+		},
+		{
+			"name": "Video Games",
+			"artist": "Lana Del Ray",
+			"genre1": "Alternative/Indie",
+			"genre2": "Dance/Electronic",
+			"language": "English",
+			"tempo": "122"
+		},
+		{
+			"name": "Obsession",
+			"artist": "Aventura, Judy Santos",
+			"genre1": "Pop",
+			"genre2": "Bachata",
+			"language": "Spanish",
+			"tempo": "134"
+		},
+		{
+			"name": "The Last Time (Taylor's Version)",
+			"artist": "Taylor Swift, Gary Lightbody",
+			"genre1": " Alternative rock",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "94"
+		},
+		{
+			"name": "cardigan",
+			"artist": "Taylor Swift",
+			"genre1": "Indie rock",
+			"genre2": "Alternative/Indie",
+			"language": "Taylor Swift",
+			"tempo": "129"
+		},
+		{
+			"name": "Cornfield Chase",
+			"artist": "Hans Zimmer",
+			"genre1": "Contemporary classical",
+			"genre2": "Minimal",
+			"language": "Instrumental",
+			"tempo": "94"
+		},
+		{
+			"name": "Old Money",
+			"artist": "Lana Del Ray",
+			"genre1": "Alternative/Indie",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "110"
+		},
+		{
+			"name": "Like a Tattoo",
+			"artist": "Sade",
+			"genre1": "R&B/Soul",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "136"
+		},
+		{
+			"name": "Moonlight",
+			"artist": "Uchsi",
+			"genre1": "R&B/Soul",
+			"genre2": "UK R&B",
+			"language": "English",
+			"tempo": "95"
+		},
+		{
+			"name": "ceilings",
+			"artist": "Lizzy McAlpine",
+			"genre1": "Indie pop",
+			"genre2": "Folk-pop",
+			"language": "English",
+			"tempo": "148"
+		},
+		{
+			"name": "Norman fucking Rockwell",
+			"artist": "Lana Del Ray",
+			"genre1": "Alternative/Indie",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "78"
+		},
+		{
+			"name": "Self Medication",
+			"artist": "Logic, Seth MacFarlane, Redman, Statik Selektah",
+			"genre1": "Hip-Hop/Rap",
+			"genre2": "Jazz",
+			"language": "English",
+			"tempo": "92"
+		},
+		{
+			"name": "My Way - From 'Sing' Original Motion Picture Soundtrack",
+			"artist": "Seth MacFarlane",
+			"genre1": "Pop",
+			"genre2": "Rock",
+			"language": "English",
+			"tempo": "81"
+		},
+		{
+			"name": "Hasta Cuando",
+			"artist": "Kali Uchis",
+			"genre1": "R&B Soul",
+			"genre2": "N/A",
+			"language": "Spanish",
+			"tempo": "107"
+		},
+		{
+			"name": "Hold the Night",
+			"artist": "Foret de Vin, Robert Beachgrove",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "159"
+		},
+		{
+			"name": "Back to Black",
+			"artist": "Amy Winehouse",
+			"genre1": "Soul",
+			"genre2": "UK R&B",
+			"language": "English",
+			"tempo": "123"
+		},
+		{
+			"name": "Christmas Kids",
+			"artist": "Roar",
+			"genre1": "Holiday",
+			"genre2": "Indie",
+			"language": "English",
+			"tempo": "152"
+		},
+		{
+			"name": "TQG",
+			"artist": "KAROL G, Shakira",
+			"genre1": "Latin Urbano",
+			"genre2": "Pop",
+			"language": "Spanish",
+			"tempo": "90"
+		},
+		{
+			"name": "4 Your Eyes Only",
+			"artist": "J. Cole",
+			"genre1": "Hip-Hop/Rap",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "79"
+		},
+		{
+			"name": "Creep",
+			"artist": "Scott Bradlee's Postmodern Jukebox, Haley Reinhart",
+			"genre1": "Jazz Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "177"
+		},
+		{
+			"name": "Heart Attack - Rock Version",
+			"artist": "Demi Lovato",
+			"genre1": "Pop",
+			"genre2": "Rock",
+			"language": "English",
+			"tempo": "174"
+		},
+		{
+			"name": "Getaway Car",
+			"artist": "Taylor Swift",
+			"genre1": "Pop",
+			"genre2": "Country",
+			"language": "English",
+			"tempo": "172"
+		},
+		{
+			"name": "Les",
+			"artist": "Childish Gambino",
+			"genre1": "Alternative/Indie",
+			"genre2": "Hip-Hop/Rap",
+			"language": "English",
+			"tempo": "103"
+		}
+
+	]
+}
