@@ -436,7 +436,7 @@
 			"name": "exile",
 			"artist": "Talyor Swift, Bon Iver",
 			"genre1": "Indie folk",
-			"genre1": "Alternative/Indie",
+			"genre2": "Alternative/Indie",
 			"language": "English",
 			"tempo": "76"
 		},
@@ -609,373 +609,380 @@
 			"tempo": "112"
 		},
 		{
-			"name": "Glimpse of Us",
-			"artist": "Joji",
-			"genre1": "R&B/Soul",
-			"genre2": "Alternative/Indie",
-			"language": "English",
-			"tempo": "170"
-		},
-		{
-			"name": "Don't Blame Me",
-			"artist": "Taylor Swift",
-			"genre1": "Pop",
-			"genre2": "Electropop",
-			"language": "English",
-			"tempo": "92"
-		},
-		{
-			"name": "Despues de la Playa",
-			"artist": "Bad Bunny",
-			"genre1": "Merengue",
-			"genre2": "Mambo",
-			"language": "Spanish",
-			"tempo": "78"
-		},
-		{
-			"name": "TVI",
-			"artist": "Surfs Curse",
-			"genre1": "Alternative/Indie",
+			"name": "Rockin' Around the Christmas Tree",
+			"artist": "Brenda Lee",
+			"genre1": "Holiday",
 			"genre2": "N/A",
 			"language": "English",
-			"tempo": "184"
+			"tempo": "67"
 		},
 		{
-			"name": "Love Lost",
-			"artist": "Mac Miller, The Temper Trap",
-			"genre1": "Hip-Hop/Rap",
+			"name": "All I Want for Christmas is You",
+			"artist": "Mariah Carey",
+			"genre1": "Holiday",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "150"
+		},
+		{
+			"name": "Last Christmas",
+			"artist": "Wham!",
+			"genre1": "Holiday",
+			"genre2": "Synth-pop",
+			"language": "English",
+			"tempo": "108"
+		},
+		{
+			"name": "A Holly Jolly Christmas",
+			"artist": "Burl Ives",
+			"genre1": "Holiday",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "140"
+		},
+		{
+			"name": "Carol of the Bells",
+			"artist": "John Williams, Mykola Leontovych",
+			"genre1": "Holiday",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "47"
+		},
+		{
+			"name": "Sleigh Ride",
+			"artist": "Andy Williams",
+			"genre1": "Holiday",
 			"genre2": "N/A",
 			"language": "English",
 			"tempo": "110"
 		},
 		{
-			"name": "Summertime Sadness",
-			"artist": "Lana Del Ray",
-			"genre1": "Trip hop",
-			"genre2": "Alternative/Indie",
+			"name": "Santa Baby",
+			"artist": "Eartha Kitt",
+			"genre1": "Holiday",
+			"genre2": "Vocal/Easy Listening",
 			"language": "English",
-			"tempo": "112"
+			"tempo": "84"
 		},
 		{
-			"name": "Bad Habit",
-			"artist": "Steve Lacy",
-			"genre1": "R&B/Soul",
-			"genre2": "Alternative/Indie",
+			"name": "Wonderful Christmastime",
+			"artist": "Paul McCartney",
+			"genre1": "Holiday",
+			"genre2": "Pop",
 			"language": "English",
-			"tempo": "169"
+			"tempo": "95"
 		},
 		{
-			"name": "Stargirl Interlude",
-			"artist": "The Weekend, Lana Del Ray",
-			"genre1": "Pop",
-			"genre2": "Contemporary R&B",
-			"language": "English",
-			"tempo": "90"
-		},
-		{
-			"name": "Nothing Breaks Like a Heart",
-			"artist": "Mark Ronson, Miley Cyrus",
-			"genre1": "Pop",
+			"name": "Baby it's Cold Outside",
+			"artist": "Idina Menzel, Michael Buble",
+			"genre1": "Holiday",
 			"genre2": "N/A",
-			"language": "English",
-			"tempo": "114"
-		},
-		{
-			"name": "No Surprises",
-			"artist": "Radiohead",
-			"genre1": "Alternatice/Indie",
-			"genre2": "Pop",
-			"language": "English",
-			"tempo": "76"
-		},
-		{
-			"name": "Creep",
-			"artist": "Radiohead",
-			"genre1": "Alternative rock",
-			"genre2": "Grunge",
-			"language": "English",
-			"tempo": "92"
-		},
-		{
-			"name": "Snow On The Beach",
-			"artist": "Taylor Swift, Lana Del Ray",
-			"genre1": "Pop",
-			"genre2": "Holiday",
-			"language": "English",
-			"tempo": "110"
-		},
-		{
-			"name": "Bags",
-			"artist": "Clairo",
-			"genre1": "Alternative/Indie",
-			"genre2": "Pop",
-			"language": "English",
-			"tempo": "105"
-		},
-		{
-			"name": "Sofia",
-			"artist": "Clairo",
-			"genre1": "Alternative/Indie",
-			"genre2": "Pop",
 			"language": "English",
 			"tempo": "113"
 		},
 		{
-			"name": "Die For You",
-			"artist": "Joji",
-			"genre1": "R&B/Soul",
-			"genre2": "N/A",
-			"language": "English",
-			"tempo": "148"
-		},
-		{
-			"name": "This Town",
-			"artist": "Niall Horan",
-			"genre1": "Pop",
-			"genre2": "Folk",
-			"language": "English",
-			"tempo": "112"
-		},
-		{
-			"name": "city snail",
-			"artist": "87dance",
-			"genre1": "R&B-Soul",
-			"genre2": "K-pop",
-			"language": "Korean",
-			"tempo": "73"
-		},
-		{
-			"name": "a night person",
-			"artist": "87dance",
-			"genre1": "K-pop",
-			"genre2": "N/A",
-			"language": "Korean",
-			"tempo": "87"
-		},
-		{
-			"name": "Creepin'",
-			"artist": "Metro Boomin, The Weekend, 21 Savage",
-			"genre1": "Hip-Hop/Rap",
-			"genre2": "N/A",
-			"language": "English",
-			"tempo": "98"
-		},
-		{
-			"name": "even if i fall into a fail",
-			"artist": "87dance",
-			"genre1": "R&B-Soul",
-			"genre2": "K-pop",
-			"language": "Korean",
-			"tempo": "80"
-		},
-		{
-			"name": "Flowers",
-			"artist": "Miley Cyrus",
-			"genre1": "Alternative/Indie",
+			"name": "White Christmas",
+			"artist": "Michael Buble, Shania Twain",
+			"genre1": "Holiday",
 			"genre2": "Pop",
 			"language": "English",
-			"tempo": "118"
+			"tempo": "63"
 		},
 		{
-			"name": "Enchanted",
-			"artist": "Taylor Swift",
-			"genre1": "Pop",
-			"genre2": "Country",
-			"language": "English",
-			"tempo": "164"
-		},
-		{
-			"name": "Kill Bill",
-			"artist": "SZA",
-			"genre1": " Pop",
-			"genre2": "R&B/Soul",
-			"language": "English",
-			"tempo": "89"
-		},
-		{
-			"name": "I Wish You Roses",
-			"artist": "Kali Uchis",
-			"genre1": "R&B/Soul",
-			"genre2": "UK R&B",
+			"name": "All I Want for Christmas is You",
+			"artist": "Michael Buble",
+			"genre1": "Holiday",
+			"genre2": "N/A",
 			"language": "English",
 			"tempo": "142"
 		},
 		{
-			"name": "Video Games",
-			"artist": "Lana Del Ray",
+			"name": "Christmas (Baby Please Come Home)",
+			"artist": "Michael Buble",
+			"genre1": "Holiday",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "126"
+		},
+		{
+			"name": "Christmas Wrapping",
+			"artist": "The Waitresses",
+			"genre1": "Holiday",
+			"genre2": "Alternative/Indie",
+			"language": "English",
+			"tempo": "116"
+		},
+		{
+			"name": "The Christmas Song",
+			"artist": "The Ravonettes",
+			"genre1": "Holiday",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "106"
+		},
+		{
+			"name": "Run Rudolf Run",
+			"artist": "Chuck Berry",
+			"genre1": "Holiday",
+			"genre2": "R&B/Soul",
+			"language": "English",
+			"tempo": "152"
+		},
+		{
+			"name": "It's Beginning to Look a lot Like Christmas",
+			"artist": "Johnny Mathis",
+			"genre1": "Holiday",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "111"
+		},
+		{
+			"name": "Silver Bells",
+			"artist": "Madison Violet",
+			"genre1": "Holiday",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "122"
+		},
+		{
+			"name": "Feliz Navidad",
+			"artist": "Jose Feliciano",
+			"genre1": "R&B/Soul",
+			"genre2": "Holiday",
+			"language": "Spanish",
+			"tempo": "149"
+		},
+		{
+			"name": "We Don't Have to Take Our Clothes Off",
+			"artist": "Ella Eyre",
+			"genre1": "Dance/Electronic",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "97"
+		},
+		{
+			"name": "Anna Sun",
+			"artist": "Walk the Moon",
+			"genre1": "Alternative/Indie",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "140"
+		},
+		{
+			"name": "Can't Help Falling in Love With You",
+			"artist": "Elvis Presley",
+			"genre1": "Children's Music",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "100"
+		},
+		{
+			"name": "She Will Be Loved",
+			"artist": "Maroon 5",
+			"genre1": "Pop rock",
+			"genre2": "Alternative rock",
+			"language": "English",
+			"tempo": "102"
+		},
+		{
+			"name": "Latch",
+			"artist": "Disclosure",
 			"genre1": "Alternative/Indie",
 			"genre2": "Dance/Electronic",
 			"language": "English",
 			"tempo": "122"
 		},
 		{
-			"name": "Obsession",
-			"artist": "Aventura, Judy Santos",
-			"genre1": "Pop",
-			"genre2": "Bachata",
-			"language": "Spanish",
-			"tempo": "134"
-		},
-		{
-			"name": "The Last Time (Taylor's Version)",
-			"artist": "Taylor Swift, Gary Lightbody",
-			"genre1": " Alternative rock",
-			"genre2": "Pop",
-			"language": "English",
-			"tempo": "94"
-		},
-		{
-			"name": "cardigan",
-			"artist": "Taylor Swift",
-			"genre1": "Indie rock",
-			"genre2": "Alternative/Indie",
-			"language": "Taylor Swift",
-			"tempo": "129"
-		},
-		{
-			"name": "Cornfield Chase",
-			"artist": "Hans Zimmer",
-			"genre1": "Contemporary classical",
-			"genre2": "Minimal",
-			"language": "Instrumental",
-			"tempo": "94"
-		},
-		{
-			"name": "Old Money",
-			"artist": "Lana Del Ray",
+			"name": "Shake it Out",
+			"artist": "Florence + the Machine",
 			"genre1": "Alternative/Indie",
 			"genre2": "Pop",
 			"language": "English",
-			"tempo": "110"
+			"tempo": "107"
 		},
 		{
-			"name": "Like a Tattoo",
-			"artist": "Sade",
-			"genre1": "R&B/Soul",
+			"name": "Die Trying",
+			"artist": "Michl",
+			"genre1": "Alternative/Indie",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "125"
+		},
+		{
+			"name": "The Scientist",
+			"artist": "Cold Play",
+			"genre1": "Rock",
 			"genre2": "Pop",
 			"language": "English",
-			"tempo": "136"
+			"tempo": "146"
 		},
 		{
-			"name": "Moonlight",
-			"artist": "Uchsi",
-			"genre1": "R&B/Soul",
-			"genre2": "UK R&B",
+			"name": "False Alarm",
+			"artist": "Matoma, Becky Hill",
+			"genre1": "Dance/Electronic",
+			"genre2": "N/A",
 			"language": "English",
-			"tempo": "95"
+			"tempo": "103"
 		},
 		{
-			"name": "ceilings",
-			"artist": "Lizzy McAlpine",
-			"genre1": "Indie pop",
-			"genre2": "Folk-pop",
+			"name": "Dancing On My Own",
+			"artist": "Calum Scott",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "113"
+		},
+		{
+			"name": "Sour Candy",
+			"artist": "Melt",
+			"genre1": "Pop",
+			"genre2": "R&B",
 			"language": "English",
 			"tempo": "148"
 		},
 		{
-			"name": "Norman fucking Rockwell",
-			"artist": "Lana Del Ray",
-			"genre1": "Alternative/Indie",
-			"genre2": "N/A",
+			"name": "Atoll",
+			"artist": "Nai Palm",
+			"genre1": "R&B",
+			"genre2": "Neo Soul",
 			"language": "English",
-			"tempo": "78"
+			"tempo": "135"
 		},
 		{
-			"name": "Self Medication",
-			"artist": "Logic, Seth MacFarlane, Redman, Statik Selektah",
-			"genre1": "Hip-Hop/Rap",
-			"genre2": "Jazz",
+			"name": "Inside",
+			"artist": "Melts",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "82"
+		},
+		{
+			"name": "Too Good at Goodbyes",
+			"artist": "Sam Smith",
+			"genre1": "Orchestral pop",
+			"genre2": "Pop",
 			"language": "English",
 			"tempo": "92"
 		},
 		{
-			"name": "My Way - From 'Sing' Original Motion Picture Soundtrack",
-			"artist": "Seth MacFarlane",
-			"genre1": "Pop",
-			"genre2": "Rock",
-			"language": "English",
-			"tempo": "81"
-		},
-		{
-			"name": "Hasta Cuando",
-			"artist": "Kali Uchis",
-			"genre1": "R&B Soul",
-			"genre2": "N/A",
-			"language": "Spanish",
-			"tempo": "107"
-		},
-		{
-			"name": "Hold the Night",
-			"artist": "Foret de Vin, Robert Beachgrove",
+			"name": "Step Function",
+			"artist": "R.C CAT",
 			"genre1": "Pop",
 			"genre2": "N/A",
 			"language": "English",
-			"tempo": "159"
+			"tempo": "114"
 		},
 		{
-			"name": "Back to Black",
-			"artist": "Amy Winehouse",
-			"genre1": "Soul",
-			"genre2": "UK R&B",
+			"name": "Never Enough",
+			"artist": "Loren Allred",
+			"genre1": "Pop",
+			"genre2": "Children's Music",
 			"language": "English",
-			"tempo": "123"
+			"tempo": "87"
 		},
 		{
-			"name": "Christmas Kids",
-			"artist": "Roar",
-			"genre1": "Holiday",
-			"genre2": "Indie",
-			"language": "English",
-			"tempo": "152"
-		},
-		{
-			"name": "TQG",
-			"artist": "KAROL G, Shakira",
-			"genre1": "Latin Urbano",
+			"name": "Stupid in Love",
+			"artist": "Melt",
+			"genre1": "Indie",
 			"genre2": "Pop",
-			"language": "Spanish",
-			"tempo": "90"
-		},
-		{
-			"name": "4 Your Eyes Only",
-			"artist": "J. Cole",
-			"genre1": "Hip-Hop/Rap",
-			"genre2": "N/A",
 			"language": "English",
-			"tempo": "79"
+			"tempo": "143"
 		},
 		{
-			"name": "Creep",
-			"artist": "Scott Bradlee's Postmodern Jukebox, Haley Reinhart",
-			"genre1": "Jazz Pop",
-			"genre2": "N/A",
-			"language": "English",
-			"tempo": "177"
-		},
-		{
-			"name": "Heart Attack - Rock Version",
-			"artist": "Demi Lovato",
+			"name": "Oh Brother",
+			"artist": "Melt",
 			"genre1": "Pop",
-			"genre2": "Rock",
+			"genre2": "Soul Pop",
 			"language": "English",
-			"tempo": "174"
+			"tempo": "80"
 		},
 		{
-			"name": "Getaway Car",
-			"artist": "Taylor Swift",
-			"genre1": "Pop",
-			"genre2": "Country",
+			"name": "Somewhere Only We Know",
+			"artist": "Keane",
+			"genre1": "Alternative/Indie",
+			"genre2": "Pop",
 			"language": "English",
 			"tempo": "172"
 		},
 		{
-			"name": "Les",
-			"artist": "Childish Gambino",
-			"genre1": "Alternative/Indie",
-			"genre2": "Hip-Hop/Rap",
+			"name": "Honeymoon Avenue",
+			"artist": "Ariana Grande",
+			"genre1": " R&B/Soul",
+			"genre2": "Pop",
 			"language": "English",
-			"tempo": "103"
+			"tempo": "125"
+		},
+		{
+			"name": "Empire State of Mind",
+			"artist": "Jay-Z, Alicia Keys",
+			"genre1": "Hip-Hop/Rap",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "174"
+		},
+		{
+			"name": "Howl",
+			"artist": "Florence + the Machine",
+			"genre1": "Alternative/Indie",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "130"
+		},
+		{
+			"name": "Dog Days Are Over",
+			"artist": "Florence + the Machine",
+			"genre1": "Alternative/Indie",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "150"
+		},
+		{
+			"name": "Like a Prayer",
+			"artist": "Madonna",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "111"
+		},
+		{
+			"name": "Brick by Boring Brick",
+			"artist": "Paramore",
+			"genre1": "Alternative/Indie",
+			"genre2": "Rock",
+			"language": "English",
+			"tempo": "165"
+		},
+		{
+			"name": "Sunday Candy",
+			"artist": "Donnie Trumpt & The Social Experiment",
+			"genre1": "R&B",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "158"
+		},
+		{
+			"name": "Dreams",
+			"artist": "Fleetwood Mac",
+			"genre1": "Soft rock",
+			"genre2": "Rock",
+			"language": "English",
+			"tempo": "120"
+		},
+		{
+			"name": "Intro",
+			"artist": "The xx",
+			"genre1": "Alternative/Indie",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "100"
+		},
+		{
+			"name": "Heat Wave",
+			"artist": "Glass Animals",
+			"genre1": "Alternative/Indie",
+			"genre2": "Psychedelic pop",
+			"language": "English",
+			"tempo": "81"
 		}
-
 	]
 }

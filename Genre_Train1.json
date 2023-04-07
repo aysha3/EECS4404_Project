@@ -1,0 +1,324 @@
+{
+	"songs": [
+		{
+			"name": "Walkie Talkie Man",
+			"artist": "Steriogram",
+			"genre1": "Punk Rock",
+			"genre2": "Alternative/Indie",
+			"language": "English",
+			"tempo": "141"
+		},
+		{
+			"name": "Makes No Difference",
+			"artist": "Sum 41",
+			"genre1": "Alternative/Indie",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "108"
+		},
+		{
+			"name": "Sk8er Boi",
+			"artist": "Avril Lavigne",
+			"genre1": "Pop-punk",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "150"
+		},
+		{
+			"name": "Material Girl",
+			"artist": "Madonna",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "137"
+		},
+		{
+			"name": "La La",
+			"artist": "Ashley Simpson",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "130"
+		},
+		{
+			"name": "Let's Dance",
+			"artist": "David Bowie",
+			"genre1": "Alternative/Indie",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "116"
+		},
+		{
+			"name": "Believe",
+			"artist": "Cher",
+			"genre1": "Pop",
+			"genre2": "UK R&B",
+			"language": "English",
+			"tempo": "133"
+		},
+		{
+			"name": "Il Ballo Delle Incertezze",
+			"artist": "Ultimo",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "Italian",
+			"tempo": "144"
+		},
+		{
+			"name": "Nuestra Cancion",
+			"artist": "Monsieur Perine, Vincent Garcia",
+			"genre1": "Alternative/Indie",
+			"genre2": "Pop",
+			"language": "Spanish",
+			"tempo": "106"
+		},
+		{
+			"name": "Edge of Town",
+			"artist": "Middle Kids",
+			"genre1": "Alternative/Indie",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "105"
+		},
+		{
+			"name": "Buttercup",
+			"artist": "Hippo Campus",
+			"genre1": "Alternative/Indie",
+			"genre2": "New Age",
+			"language": "English",
+			"tempo": "109"
+		},
+		{
+			"name": "Cigarette Daydreams",
+			"artist": "Cage the Elephant",
+			"genre1": "Alternative/Indie",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "114"
+		},
+		{
+			"name": "If We Wait",
+			"artist": "Guided By Voices",
+			"genre1": "Alternative/Indie",
+			"genre2": "Rock",
+			"language": "English",
+			"tempo": "101"
+		},
+		{
+			"name": "Quarterback",
+			"artist": "Wallows",
+			"genre1": "Alternative/Indie",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "121"
+		},
+		{
+			"name": "Nobody",
+			"artist": "Mitski",
+			"genre1": "Alternative/Indie",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "100"
+		},
+		{
+			"name": "The Less I Know the Better",
+			"artist": "Tame Impala",
+			"genre1": "Alternative/Indie",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "117"
+		},
+		{
+			"name": "we fell in love in october",
+			"artist": "girl in red",
+			"genre1": "Alternative/Indie",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "130"
+		},
+		{
+			"name": "Take My Breath",
+			"artist": "The Weekend",
+			"genre1": "R&B/Soul",
+			"genre2": "Alternative/Indie",
+			"language": "English",
+			"tempo": "121"
+		},
+		{
+			"name": "Love Me More",
+			"artist": "Mitski",
+			"genre1": "Alternative/Indie",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "136"
+		},
+		{
+			"name": "Less Than Zero",
+			"artist": "The Weekend",
+			"genre1": "Alternative/Indie",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "143"
+		},
+		{
+			"name": "Exit Music (For a Film)",
+			"artist": "Radiohead",
+			"genre1": "Alternative rock",
+			"genre2": "Alternative/Indie",
+			"language": "English",
+			"tempo": "122"
+		},
+		{
+			"name": "right where you left me",
+			"artist": "Taylor swift",
+			"genre1": "Alternative/Indie",
+			"genre2": "R&B/Soul",
+			"language": "English",
+			"tempo": "138"
+		},
+		{
+			"name": "All I Want for Christmas is You",
+			"artist": "Mariah Carey",
+			"genre1": "Holiday",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "150"
+		},
+		{
+			"name": "Christmas Wrapping",
+			"artist": "The Waitresses",
+			"genre1": "Holiday",
+			"genre2": "Alternative/Indie",
+			"language": "English",
+			"tempo": "116"
+		},
+		{
+			"name": "It's Beginning to Look a lot Like Christmas",
+			"artist": "Johnny Mathis",
+			"genre1": "Holiday",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "111"
+		},
+		{
+			"name": "Anna Sun",
+			"artist": "Walk the Moon",
+			"genre1": "Alternative/Indie",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "140"
+		},
+		{
+			"name": "Can't Help Falling in Love With You",
+			"artist": "Elvis Presley",
+			"genre1": "Children's Music",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "100"
+		},
+		{
+			"name": "Latch",
+			"artist": "Disclosure",
+			"genre1": "Alternative/Indie",
+			"genre2": "Dance/Electronic",
+			"language": "English",
+			"tempo": "122"
+		},
+		{
+			"name": "Shake it Out",
+			"artist": "Florence + the Machine",
+			"genre1": "Alternative/Indie",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "107"
+		},
+		{
+			"name": "Die Trying",
+			"artist": "Michl",
+			"genre1": "Alternative/Indie",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "125"
+		},
+		{
+			"name": "The Scientist",
+			"artist": "Cold Play",
+			"genre1": "Rock",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "146"
+		},
+		{
+			"name": "Dancing On My Own",
+			"artist": "Calum Scott",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "113"
+		},
+		{
+			"name": "Sour Candy",
+			"artist": "Melt",
+			"genre1": "Pop",
+			"genre2": "R&B",
+			"language": "English",
+			"tempo": "148"
+		},
+		{
+			"name": "Step Function",
+			"artist": "R.C CAT",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "114"
+		},
+		{
+			"name": "Stupid in Love",
+			"artist": "Melt",
+			"genre1": "Indie",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "143"
+		},
+		{
+			"name": "Honeymoon Avenue",
+			"artist": "Ariana Grande",
+			"genre1": " R&B/Soul",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "125"
+		},
+		{
+			"name": "Howl",
+			"artist": "Florence + the Machine",
+			"genre1": "Alternative/Indie",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "130"
+		},
+		{
+			"name": "Dog Days Are Over",
+			"artist": "Florence + the Machine",
+			"genre1": "Alternative/Indie",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "150"
+		},
+		{
+			"name": "Like a Prayer",
+			"artist": "Madonna",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "111"
+		},
+		{
+			"name": "Intro",
+			"artist": "The xx",
+			"genre1": "Alternative/Indie",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "100"
+		}
+	]
+}
