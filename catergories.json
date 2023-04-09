@@ -29,11 +29,11 @@
 		{"c":"R&B"},
 		{"c":"Indie folk"},
 		{"c":"Alternative Rock"},
-		{"c":"Alternative rock"},
 		{"c":"Dance/Electronic"},
 		{"c":"Indie"}, 
 		{"c":"Soft rock"}, 
-	    {"c":"Psychedelic pop"}, 
+	      {"c":"Psychedelic pop"}, 
+		{"c":"Psychedelic rock"},
 		{"c":"Soul pop"}, 
 		{"c":"Children’s Music"}, 
 		{"c":"Orchestral pop"}, 
@@ -41,7 +41,7 @@
 		{"c":"Holiday"}, 
 		{"c":"Synth-pop"}, 
 		{"c":"Vocal/Easy Listening"},
-		{"c":"Spoken Word"},
-        {"c":"N/A"}
+		{"c":"Electropop"},
+		{"c":"Spoken Word"}
 	]
 } 

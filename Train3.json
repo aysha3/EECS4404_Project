@@ -1,0 +1,108 @@
+{
+	"songs": [
+		{
+			"name": "ABC",
+			"artist": "The Jackson 5",
+			"genre1": "R&B/Soul",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "95"
+		},
+		{
+			"name": "If We Wait",
+			"artist": "Guided By Voices",
+			"genre1": "Alternative/Indie",
+			"genre2": "Rock",
+			"language": "English",
+			"tempo": "101"
+		},
+		{
+			"name": "Alien Blues",
+			"artist": "Vundabar",
+			"genre1": "Indie Rock",
+			"genre2": "Rock",
+			"language": "English",
+			"tempo": "80"
+		},
+		{
+			"name": "Ew",
+			"artist": "Joji",
+			"genre1": "R&B/Soul",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "114"
+		},
+		{
+			"name": "Save Your Tears",
+			"artist": "The Weekend",
+			"genre1": "R&B/Soul",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "118"
+		},
+		{
+			"name": "Take My Breath",
+			"artist": "The Weekend",
+			"genre1": "R&B/Soul",
+			"genre2": "Alternative/Indie",
+			"language": "English",
+			"tempo": "121"
+		},
+		{
+			"name": "Lost",
+			"artist": "Frank Ocean",
+			"genre1": "R&B/Soul",
+			"genre2": "Hip-Hop/Rap",
+			"language": "English",
+			"tempo": "123"
+		},
+		{
+			"name": "Honeymoon Avenue",
+			"artist": "Ariana Grande",
+			"genre1": " R&B/Soul",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "125"
+		},
+		{
+			"name": "Dreams",
+			"artist": "Fleetwood Mac",
+			"genre1": "Soft rock",
+			"genre2": "Rock",
+			"language": "English",
+			"tempo": "120"
+		},
+		{
+			"name": "Sick Of It All",
+			"artist": "Blackbear",
+			"genre1": "R&B/Soul",
+			"genre2": "Hip-Hop/Rap",
+			"language": "English",
+			"tempo": "109"
+		},
+		{
+			"name": "Good Days",
+			"artist": "SZA",
+			"genre1": "R&B/Soul",
+			"genre2": "R&B",
+			"language": "English",
+			"tempo": "121"
+		},	
+		{
+			"name": "Kill Bill",
+			"artist": "SZA",
+			"genre1": "Pop",
+			"genre2": "R&B/Soul",
+			"language": "English",
+			"tempo": "89"
+		},
+		{
+			"name": "It's You",
+			"artist": "Ali Gatie",
+			"genre1": "R&B/Soul",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "96"
+		}	
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"songs": [
+		{
+			"name": "Despues de la Playa",
+			"artist": "Bad Bunny",
+			"genre1": "Merengue",
+			"genre2": "Mambo",
+			"language": "Spanish",
+			"tempo": "78"
+		},
+		{
+			"name": "Obsession",
+			"artist": "Aventura, Judy Santos",
+			"genre1": "Pop",
+			"genre2": "Bachata",
+			"language": "Spanish",
+			"tempo": "134"
+		},
+		{
+			"name": "Hasta Cuando",
+			"artist": "Kali Uchis",
+			"genre1": "R&B Soul",
+			"genre2": "N/A",
+			"language": "Spanish",
+			"tempo": "107"
+		},
+		{
+			"name": "TQG",
+			"artist": "KAROL G, Shakira",
+			"genre1": "Latin Urbano",
+			"genre2": "Pop",
+			"language": "Spanish",
+			"tempo": "90"
+		}
+
+	]
+}

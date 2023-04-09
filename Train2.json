@@ -1,0 +1,55 @@
+{
+	"songs": [
+		{
+			"name": "TOMBOY",
+			"artist": "HYUKOH",
+			"genre1": "Alternative Rock",
+			"genre2": "N/A",
+			"language": "Korean",
+			"tempo": "148"
+		},
+		{
+			"name": "Comes and Goes",
+			"artist": "HYUKOH",
+			"genre1": "Alternative Rock",
+			"genre2": "N/A",
+			"language": "Korean",
+			"tempo": "120"
+		},
+		{
+			"name": "Gondry",
+			"artist": "HYUKOH",
+			"genre1": "Alternative Rock",
+			"genre2": "N/A",
+			"language": "Korean",
+			"tempo": "80"
+		},
+		{
+			"name": "Things I've Forgotten",
+			"artist": "Summer Soul",
+			"genre1": "K-Pop",
+
+			"genre2": "Folk",
+			"language": "Korean",
+			"tempo": "119"
+		},
+		{
+			"name": "Black Pearl",
+			"artist": "SUNMI",
+			"genre1": "K-Pop",
+			"genre2": "N/A",
+			"language": "Korean",
+			"tempo": "77"
+		},
+		{
+			"name": "How can i forget you girl",
+			"artist": "87dance",
+			"genre1": "Alternative Rock",
+			"genre2": "N/A",
+			"language": "Korean",
+			"tempo": "97"
+		}
+			
+			
+	]
+}

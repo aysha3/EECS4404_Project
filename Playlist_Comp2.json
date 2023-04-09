@@ -1,0 +1,29 @@
+{
+	"songs": [
+		{
+			"name": "city snail",
+			"artist": "87dance",
+			"genre1": "R&B-Soul",
+			"genre2": "K-pop",
+			"language": "Korean",
+			"tempo": "73"
+		},
+		{
+			"name": "a night person",
+			"artist": "87dance",
+			"genre1": "K-pop",
+			"genre2": "N/A",
+			"language": "Korean",
+			"tempo": "87"
+		},
+		{
+			"name": "even if i fall into a fail",
+			"artist": "87dance",
+			"genre1": "R&B-Soul",
+			"genre2": "K-pop",
+			"language": "Korean",
+			"tempo": "80"
+		}
+
+	]
+}

@@ -983,6 +983,529 @@
 			"genre2": "Psychedelic pop",
 			"language": "English",
 			"tempo": "81"
+		},
+		{
+			"name": "No Role Modelz",
+			"artist": "J.cole",
+			"genre1": "Hip-Hop/Rap",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "100"
+		},
+		{
+			"name": "Maniac",
+			"artist": "Conan Gray",
+			"genre1": "Pop",
+			"genre2": "Electropop",
+			"language": "English",
+			"tempo": "108"
+		},
+		{
+			"name": "Sticky",
+			"artist": "Drake",
+			"genre1": "Dance/Electronic",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "137"
+		},
+		{
+			"name": "If I Hated You",
+			"artist": "Fletcher",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "95"
+		},
+		{
+			"name": "Better Version",
+			"artist": "Fletcher",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "87"
+		},
+		{
+			"name": "Go Away",
+			"artist": "Tate McRae",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "106"
+		},
+		{
+			"name": "Jigsaw",
+			"artist": "Conan Gray",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "168"
+		},
+		{
+			"name": "Here",
+			"artist": "Alessia Cara",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "120"
+		},
+		{
+			"name": "Greek God",
+			"artist": "Conan Gray",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "139"
+		},
+		{
+			"name": "Dooste Mamooli",
+			"artist": "Yasin Torki",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "Farsi",
+			"tempo": "103"
+		},
+		{
+			"name": "Needed Me",
+			"artist": "Rihanna",
+			"genre1": "R&B",
+			"genre2": "Trap",
+			"language": "English",
+			"tempo": "111"
+		},
+		{
+			"name": "Sweater Weather",
+			"artist": "The Neighbourhood",
+			"genre1": "Indie Rock",
+			"genre2": "Alternative/Indie",
+			"language": "English",
+			"tempo": "124"
+		},
+		{
+			"name": "Paris",
+			"artist": "Taylor Swift",
+			"genre1": "Alternative/Indie",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "111"
+		},
+		{
+			"name": "Sick Of It All",
+			"artist": "Blackbear",
+			"genre1": "R&B/Soul",
+			"genre2": "Hip-Hop/Rap",
+			"language": "English",
+			"tempo": "109"
+		},
+		{
+			"name": "Let It Go",
+			"artist": "James Bay",
+			"genre1": "Pop rock",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "147"
+		},
+		{
+			"name": "Used To BE",
+			"artist": "AJ Mitchell",
+			"genre1": "Pop",
+			"genre2": "Electropop",
+			"language": "English",
+			"tempo": "118"
+		},
+		{
+			"name": "Chaotic",
+			"artist": "Tate McRae",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "107"
+		},
+		{
+			"name": "Honey",
+			"artist": "Halsey",
+			"genre1": "Pop",
+			"genre2": "Electropop",
+			"language": "English",
+			"tempo": "160"
+		},
+		{
+			"name": "Go To Hell",
+			"artist": "Clinton Kane",
+			"genre1": "Pop",
+			"genre2": "Alternative Rock",
+			"language": "English",
+			"tempo": "180"
+		},
+		{
+			"name": "Easier",
+			"artist": "5SOS",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "176"
+		},
+		{
+			"name": "Happier",
+			"artist": "Olivia Rodrigo",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "100"
+		},
+		{
+			"name": "DayLight",
+			"artist": "Harry Styles",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "146"
+		},
+		{
+			"name": "Comfort Crowd",
+			"artist": "Conan Gray",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "91"
+		},
+		{
+			"name": "Cinnamon",
+			"artist": "Jome",
+			"genre1": "Folk",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "140"
+		},
+		{
+			"name": "Daddy Issues",
+			"artist": "The Neighbourhood",
+			"genre1": "Pop",
+			"genre2": "Alternative Rock",
+			"language": "English",
+			"tempo": "85"
+		},
+		{
+			"name": "Where's My Love",
+			"artist": "SYML",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "104"
+		},
+		{
+			"name": "Summer Of Love",
+			"artist": "Shawn Mendes",
+			"genre1": "Pop",
+			"genre2": "Dance Pop",
+			"language": "English",
+			"tempo": "124"
+		},
+		{
+			"name": "Mystery Of LOve",
+			"artist": "Sufjan Stevens",
+			"genre1": "Alternative/Indie",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "132"
+		},
+		{
+			"name": "Swim",
+			"artist": "Chase Atlantic",
+			"genre1": "Alternative/Indie",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "120"
+		},
+		{
+			"name": "Shameless",
+			"artist": "Camila Cabello",
+			"genre1": "Pop-punk",
+			"genre2": "Rock",
+			"language": "English",
+			"tempo": "130"
+		},
+		{
+			"name": "Mercy",
+			"artist": "Shawn Mendes",
+			"genre1": "Pop rock",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "148"
+		},
+		{
+			"name": "Vibez",
+			"artist": "Zayn",
+			"genre1": "R&B",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "97"
+		},
+		{
+			"name": "Yours",
+			"artist": "Conan Gray",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "108"
+		},
+		{
+			"name": "Older",
+			"artist": "Alec Benjamin",
+			"genre1": "Pop",
+			"genre2": "Folk",
+			"language": "English",
+			"tempo": "84"
+		},
+		{
+			"name": "Heaven Come",
+			"artist": "Josh Golden",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "120"
+		},
+		{
+			"name": "Honest",
+			"artist": "Bazzi",
+			"genre1": "R&B",
+			"genre2": "Synth-pop",
+			"language": "English",
+			"tempo": "77"
+		},
+		{
+			"name": "Like I Can",
+			"artist": "Sam Smith",
+			"genre1": "Pop",
+			"genre2": "Soul Pop",
+			"language": "English",
+			"tempo": "100"
+		},
+		{
+			"name": "All Your Exes",
+			"artist": "Julia Michaels",
+			"genre1": "Pop rock",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "112"
+		},
+		{
+			"name": "I Love You",
+			"artist": "Billie Eilish",
+			"genre1": "Alternative",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "137"
+		},
+		{
+			"name": "What's Your Problem",
+			"artist": "Tate McRae",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "104"
+		},
+		{
+			"name": "Caramel",
+			"artist": "5SOS",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "158"
+		},
+		{
+			"name": "Idfc",
+			"artist": "Blackbear",
+			"genre1": "R&B/Soul",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "145"
+		},
+		{
+			"name": "Graveyard",
+			"artist": "Halsey",
+			"genre1": "Alternative/Indie",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "92"
+		},
+		{
+			"name": "Sermon",
+			"artist": "James Arthur",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "85"
+		},
+		{
+			"name": "Intro",
+			"artist": "Quinn XCII",
+			"genre1": "Pop",
+			"genre2": "Electropop",
+			"language": "English",
+			"tempo": "85"
+		},
+		{
+			"name": "Up All Night",
+			"artist": "Khalid",
+			"genre1": "Electropop",
+			"genre2": "Reggae",
+			"language": "English",
+			"tempo": "94"
+		},
+		{
+			"name": "Coast",
+			"artist": "Hailee Steinfeld",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "112"
+		},
+		{
+			"name": "Smooth",
+			"artist": "Connor Price",
+			"genre1": "Hip-Hop/Rap",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "108"
+		},
+		{
+			"name": "Let's Go To Hell",
+			"artist": "Tai Verdes",
+			"genre1": "Alternative/Indie",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "128"
+		},
+		{
+			"name": "Real Thing",
+			"artist": "Ruel",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "126"
+		},
+		{
+			"name": "The Heart Wants What It Wants",
+			"artist": "Selena Gomez",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "83"
+		},	
+		
+		{
+			"name": "Pain Killer",
+			"artist": "Ruel",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "129"
+		},	
+		{
+			"name": "Head First",
+			"artist": "Christian French",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "127"
+		},	
+		{
+			"name": "Good Days",
+			"artist": "SZA",
+			"genre1": "R&B/Soul",
+			"genre2": "R&B",
+			"language": "English",
+			"tempo": "121"
+		},	
+		{
+			"name": "Therefore I Am",
+			"artist": "Billie Eilish",
+			"genre1": "Electropop",
+			"genre2": "R&B",
+			"language": "English",
+			"tempo": "94"
+		},	
+		{
+			"name": "Kill Bill",
+			"artist": "SZA",
+			"genre1": "Pop",
+			"genre2": "R&B/Soul",
+			"language": "English",
+			"tempo": "89"
+		},	
+		{
+			"name": "Wonder",
+			"artist": "Shawn Mendes",
+			"genre1": "Pop",
+			"genre2": "Rock",
+			"language": "English",
+			"tempo": "140"
+		},	
+		{
+			"name": "Baby",
+			"artist": "Madison Beer",
+			"genre1": "R&B",
+			"genre2": "Dance Pop",
+			"language": "English",
+			"tempo": "118"
+		},	
+		{
+			"name": "You & I",
+			"artist": "One Direction",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "131"
+		},	
+		{
+			"name": "Soap",
+			"artist": "Melanie Martinez",
+			"genre1": "Alternative",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "168"
+		},	
+		{
+			"name": "Feelings",
+			"artist": "Lauv",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "103"
+		},	
+		{
+			"name": "Used To Me",
+			"artist": "Cameron Dallas",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "140"
+		},	
+		{
+			"name": "It's You",
+			"artist": "Ali Gatie",
+			"genre1": "R&B/Soul",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "96"
+		},	
+		{
+			"name": "Physical",
+			"artist": "Dua Lipa",
+			"genre1": "Latin Urbano",
+			"genre2": "Dance/Electronic",
+			"language": "English",
+			"tempo": "147"
+		},	
+		{
+			"name": "Dont Start Now",
+			"artist": "Dua Lipa",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "124"
 		}
+			
+			
 	]
 }

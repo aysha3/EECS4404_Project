@@ -57,22 +57,6 @@
 			"tempo": "133"
 		},
 		{
-			"name": "Il Ballo Delle Incertezze",
-			"artist": "Ultimo",
-			"genre1": "Pop",
-			"genre2": "N/A",
-			"language": "Italian",
-			"tempo": "144"
-		},
-		{
-			"name": "Nuestra Cancion",
-			"artist": "Monsieur Perine, Vincent Garcia",
-			"genre1": "Alternative/Indie",
-			"genre2": "Pop",
-			"language": "Spanish",
-			"tempo": "106"
-		},
-		{
 			"name": "Edge of Town",
 			"artist": "Middle Kids",
 			"genre1": "Alternative/Indie",
@@ -103,6 +87,14 @@
 			"genre2": "Rock",
 			"language": "English",
 			"tempo": "101"
+		},
+		{
+			"name": "Arms Tonight",
+			"artist": "Mother Mother",
+			"genre1": "Indie Rock",
+			"genre2": "Alternative Rock",
+			"language": "English",
+			"tempo": "140"
 		},
 		{
 			"name": "Quarterback",
@@ -283,7 +275,7 @@
 		{
 			"name": "Honeymoon Avenue",
 			"artist": "Ariana Grande",
-			"genre1": " R&B/Soul",
+			"genre1": "R&B/Soul",
 			"genre2": "Pop",
 			"language": "English",
 			"tempo": "125"
@@ -319,6 +311,262 @@
 			"genre2": "N/A",
 			"language": "English",
 			"tempo": "100"
+		},
+		{
+			"name": "Maniac",
+			"artist": "Conan Gray",
+			"genre1": "Pop",
+			"genre2": "Electropop",
+			"language": "English",
+			"tempo": "108"
+		},
+		{
+			"name": "Go Away",
+			"artist": "Tate McRae",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "106"
+		},
+		{
+			"name": "Here",
+			"artist": "Alessia Cara",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "120"
+		},
+		{
+			"name": "Greek God",
+			"artist": "Conan Gray",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "139"
+		},
+		{
+			"name": "Sweater Weather",
+			"artist": "The Neighbourhood",
+			"genre1": "Indie Rock",
+			"genre2": "Alternative/Indie",
+			"language": "English",
+			"tempo": "124"
+		},
+		{
+			"name": "Paris",
+			"artist": "Taylor Swift",
+			"genre1": "Alternative/Indie",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "111"
+		},
+		{
+			"name": "Let It Go",
+			"artist": "James Bay",
+			"genre1": "Pop rock",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "147"
+		},
+		{
+			"name": "Used To BE",
+			"artist": "AJ Mitchell",
+			"genre1": "Pop",
+			"genre2": "Electropop",
+			"language": "English",
+			"tempo": "118"
+		},
+		{
+			"name": "Chaotic",
+			"artist": "Tate McRae",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "107"
+		},
+		{
+			"name": "Happier",
+			"artist": "Olivia Rodrigo",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "100"
+		},
+		{
+			"name": "DayLight",
+			"artist": "Harry Styles",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "146"
+		},
+		{
+			"name": "Where's My Love",
+			"artist": "SYML",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "104"
+		},
+		{
+			"name": "Summer Of Love",
+			"artist": "Shawn Mendes",
+			"genre1": "Pop",
+			"genre2": "Dance Pop",
+			"language": "English",
+			"tempo": "124"
+		},
+		{
+			"name": "Mystery Of LOve",
+			"artist": "Sufjan Stevens",
+			"genre1": "Alternative/Indie",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "132"
+		},
+		{
+			"name": "Swim",
+			"artist": "Chase Atlantic",
+			"genre1": "Alternative/Indie",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "120"
+		},
+		{
+			"name": "Mercy",
+			"artist": "Shawn Mendes",
+			"genre1": "Pop rock",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "148"
+		},
+		{
+			"name": "Yours",
+			"artist": "Conan Gray",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "108"
+		},
+		{
+			"name": "Heaven Come",
+			"artist": "Josh Golden",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "120"
+		},
+		{
+			"name": "Like I Can",
+			"artist": "Sam Smith",
+			"genre1": "Pop",
+			"genre2": "Soul",
+			"language": "English",
+			"tempo": "100"
+		},
+		{
+			"name": "I Love You",
+			"artist": "Billie Eilish",
+			"genre1": "Alternative",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "137"
+		},
+		{
+			"name": "What's Your Problem",
+			"artist": "Tate McRae",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "104"
+		},
+		{
+			"name": "Coast",
+			"artist": "Hailee Steinfeld",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "112"
+		},
+		{
+			"name": "Let's Go To Hell",
+			"artist": "Tai Verdes",
+			"genre1": "Alternative/Indie",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "128"
+		},
+		{
+			"name": "Real Thing",
+			"artist": "Ruel",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "126"
+		},
+		{
+			"name": "Pain Killer",
+			"artist": "Ruel",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "129"
+		},	
+		{
+			"name": "Head First",
+			"artist": "Christian French",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "127"
+		},
+		{
+			"name": "Wonder",
+			"artist": "Shawn Mendes",
+			"genre1": "Pop",
+			"genre2": "Rock",
+			"language": "English",
+			"tempo": "140"
+		},	
+		{
+			"name": "Baby",
+			"artist": "Madison Beer",
+			"genre1": "R&B",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "118"
+		},	
+		{
+			"name": "You & I",
+			"artist": "One Direction",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "131"
+		},
+		{
+			"name": "Feelings",
+			"artist": "Lauv",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "103"
+		},	
+		{
+			"name": "Used To Me",
+			"artist": "Cameron Dallas",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "140"
+		},
+		{
+			"name": "Dont Start Now",
+			"artist": "Dua Lipa",
+			"genre1": "Pop",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "124"
 		}
 	]
 }

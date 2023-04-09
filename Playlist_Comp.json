@@ -1,0 +1,101 @@
+{
+	"songs": [
+				{
+			"name": "Glimpse of Us",
+			"artist": "Joji",
+			"genre1": "R&B/Soul",
+			"genre2": "Alternative/Indie",
+			"language": "English",
+			"tempo": "170"
+		},
+		{
+			"name": "Love Lost",
+			"artist": "Mac Miller, The Temper Trap",
+			"genre1": "Hip-Hop/Rap",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "110"
+		},
+		{
+			"name": "Bad Habit",
+			"artist": "Steve Lacy",
+			"genre1": "R&B/Soul",
+			"genre2": "Alternative/Indie",
+			"language": "English",
+			"tempo": "169"
+		},
+		{
+			"name": "Die For You",
+			"artist": "Joji",
+			"genre1": "R&B/Soul",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "148"
+		},
+		{
+			"name": "Creepin'",
+			"artist": "Metro Boomin, The Weekend, 21 Savage",
+			"genre1": "Hip-Hop/Rap",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "98"
+		},
+		{
+			"name": "Kill Bill",
+			"artist": "SZA",
+			"genre1": " Pop",
+			"genre2": "R&B/Soul",
+			"language": "English",
+			"tempo": "89"
+		},
+		{
+			"name": "I Wish You Roses",
+			"artist": "Kali Uchis",
+			"genre1": "R&B/Soul",
+			"genre2": "UK R&B",
+			"language": "English",
+			"tempo": "142"
+		},
+		{
+			"name": "Like a Tattoo",
+			"artist": "Sade",
+			"genre1": "R&B/Soul",
+			"genre2": "Pop",
+			"language": "English",
+			"tempo": "136"
+		},
+		{
+			"name": "Moonlight",
+			"artist": "Uchsi",
+			"genre1": "R&B/Soul",
+			"genre2": "UK R&B",
+			"language": "English",
+			"tempo": "95"
+		},
+		{
+			"name": "Self Medication",
+			"artist": "Logic, Seth MacFarlane, Redman, Statik Selektah",
+			"genre1": "Hip-Hop/Rap",
+			"genre2": "Jazz",
+			"language": "English",
+			"tempo": "92"
+		},
+		{
+			"name": "Back to Black",
+			"artist": "Amy Winehouse",
+			"genre1": "Soul",
+			"genre2": "R&B Soul",
+			"language": "English",
+			"tempo": "123"
+		},
+		{
+			"name": "4 Your Eyes Only",
+			"artist": "J. Cole",
+			"genre1": "Hip-Hop/Rap",
+			"genre2": "N/A",
+			"language": "English",
+			"tempo": "79"
+		}
+
+	]
+}
